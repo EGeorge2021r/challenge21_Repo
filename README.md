@@ -119,4 +119,6 @@ Define the KaseiCoin crowdsale contract to inherit Crowsale and Minted Crowdale 
 
 ![Deploy CrowdSale_Remix_Metamask_Ganache](https://user-images.githubusercontent.com/88909565/154812249-8fc910fe-b85d-4d6e-96e2-ee9d9e92c7ee.png)
 
+#### Optional: Extend the Crowdsale Contract by Using OpenZeppelin
+This sections was started but commented out and will be further reviewed and executed as part of persona interest to implement these optional steps.
 
