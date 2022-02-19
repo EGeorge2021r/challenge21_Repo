@@ -27,3 +27,28 @@ The following libraries and dependencies were deployed:
 
 ## Evaluation Evidence 
 Screenshots from each subsection of the project work:
+
+### Create the KaseiCoin Token Contract
+Create, compile and deploy Smart contract that defines KaseiCoin as an ERC-20 token.
+- KaseiCoin Deployer screenshot
+
+- KaseiCoin Compiler screenshot 
+
+
+### Create the KaseiCoin Crowdsale Contract
+Define the KaseiCoin crowdsale contract to inherit Crowsale and Minted Crowdale from OpenZeppelin contracts
+
+screenshot of the successful compilation of the KaseiCrowdsale contract
+
+
+
+### Create the KaseiCoin Deployer Contract
+Screenshot of the successful compilation of the KaseiCoin Deployer Contract
+
+
+
+### Deploy the Crowdsale to a Local Blockchain
+Screeshot of the deployment of CrowdSale usining Remix, Metamask and Ganache  
+
+
+
